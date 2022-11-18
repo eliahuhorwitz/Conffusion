@@ -1,5 +1,5 @@
 # Conffusion: Confidence Intervals for Diffusion Models
-### [Project](https://www.vision.huji.ac.il/conffusion) | [Paper](https://arxiv.org/abs/) <br>
+### [Project](https://www.vision.huji.ac.il/conffusion) | [Paper](http://arxiv.org/abs/2211.09795) <br>
 Official PyTorch Implementation for the "Conffusion: Confidence Intervals for Diffusion Models" paper.  
 
 ![](imgs/header.png)
