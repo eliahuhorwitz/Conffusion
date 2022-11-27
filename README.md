@@ -43,11 +43,13 @@ pip install -r requirements.txt
 
 ### N-Con*ffusion*
 
-- Super-resolution: [super_resolution_n_conffusion]()
-- Inpainting: [inpainting_n_conffusion]()
+> [**Super-resolution**](https://github.com/eliahuhorwitz/Conffusion/tree/main/super_resolution_n_conffusion): N-Con*ffusion* code for super-resolution (also includes DM<sub>SB</sub> and DM<sub>SBA</sub> code)
+
+
+> [**Inpainting**](https://github.com/eliahuhorwitz/Conffusion/tree/main/inpainting_n_conffusion): N-Con*ffusion* code for inpainting (also includes DM<sub>SB</sub> and DM<sub>SBA</sub> code)
 
 ### G-Con*ffusion*
-- Super-resolution + Inpainting: [g_conffusion]()
+> [**Super-resolution + Inpainting**](https://github.com/eliahuhorwitz/Conffusion/tree/main/g_conffusion): G-Con*ffusion* code for super-resolution and inpainting
 
 
 
