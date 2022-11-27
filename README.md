@@ -66,11 +66,6 @@ If you find this useful for your research, please use the following.
 
 
 ## Acknowledgments
-
-
-<a href="https://drive.google.com/file/d/10nP41Z-cHmLuHrIOhvxe-IZrP-gnK4vm/view?usp=share_link" target="_blank">here</a>
-
-
 - The SR3 implementation is based on <a href="https://github.com/Janspiry/Image-Super-Resolution-via-Iterative-Refinement" target="_blank">this</a> unofficial implementation of SR3. 
 - The Palette implementation is based on <a href="https://github.com/Janspiry/Palette-Image-to-Image-Diffusion-Models" target="_blank">this</a> unofficial implementation of Palette.
 - The Guided-diffusion implementation is based on <a href="https://github.com/openai/guided-diffusion" target="_blank">this</a> official implementation.
