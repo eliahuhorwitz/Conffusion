@@ -65,6 +65,18 @@ Keep in mind, not all the options are supported by Con*ffusion*.
 
 **Note:** This project assumes you are using wandb for logging.
 
+## Citation
+If you find this useful for your research, please use the following.
+
+```
+@article{horwitz2022conffusion,
+  title={Conffusion: Confidence Intervals for Diffusion Models},
+  author={Horwitz, Eliahu and Hoshen, Yedid},
+  journal={arXiv preprint arXiv:2211.09795},
+  year={2022}
+}
+```
 
 ## Acknowledgments
 - The Guided Diffusion implementation is based on <a href="https://github.com/openai/guided-diffusion" target="_blank">this</a> official implementation of Guided Diffusion. 
+- The implementation of the calibration and evaluation metrics is based on <a href="https://github.com/aangelopoulos/im2im-uq" target="_blank">this</a> official implementation of im2im-uq.
