@@ -1,4 +1,4 @@
-# Con*ffusion*: Confidence Intervals for Diffusion Models - SR3
+# Con*ffusion*: Confidence Intervals for Diffusion Models - Super-resolution
 ### <a href="https://www.vision.huji.ac.il/conffusion" target="_blank">Project</a> | <a href="http://arxiv.org/abs/2211.09795" target="_blank">Paper</a> <br>
 Official PyTorch Implementation for the "Con*ffusion*: Confidence Intervals for Diffusion Models" paper.  
 
@@ -79,7 +79,19 @@ For additional models and options, refer to the original SR3 repo found <a href=
 Keep in mind, not all the options are supported by Con*ffusion*. 
 
 **Note:** This project assumes you are using wandb for logging.
+## Citation
+If you find this useful for your research, please use the following.
+
+```
+@article{horwitz2022conffusion,
+  title={Conffusion: Confidence Intervals for Diffusion Models},
+  author={Horwitz, Eliahu and Hoshen, Yedid},
+  journal={arXiv preprint arXiv:2211.09795},
+  year={2022}
+}
+```
 
 
 ## Acknowledgments
 - The SR3 implementation is based on <a href="https://github.com/Janspiry/Image-Super-Resolution-via-Iterative-Refinement" target="_blank">this</a> unofficial implementation of SR3. 
+- The implementation of the calibration and evaluation metrics is based on <a href="https://github.com/aangelopoulos/im2im-uq" target="_blank">this</a> official implementation of im2im-uq.
